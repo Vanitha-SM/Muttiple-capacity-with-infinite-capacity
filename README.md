@@ -19,7 +19,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Program
-```
+~~~
 Developed by: Vanitha S
 Register no: 212222100057
 
@@ -53,7 +53,7 @@ if (rho<1):
     print("Probability that the system is empty : %0.2f "%(1-rho))
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
-```
+~~~
 
 ## Output :
 ![image](https://github.com/Vanitha-SM/Muttiple-capacity-with-infinite-capacity/assets/119557985/1b3d5a88-3007-438f-a43b-8160e0ba62dd)
